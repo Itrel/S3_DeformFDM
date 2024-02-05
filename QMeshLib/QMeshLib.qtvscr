@@ -1,0 +1,632 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2024-01-21 20:52:43",
+  "files": {
+    "D:\\Dev\\S3_DeformFDM\\QMeshLib\\QMeshLib.vcxproj": {
+      "before": "7Rtrb+JIcj+fdP/BQtlR8gGcIQxJBuJVwIRFyyuBJKsVEjJ2B7xju512O4+9vZ9y//Wqu/0EEkjszGpmMpoZcLu6urreXV387/inn+q/PNiWdIeIZ2LnpPCxtF+QkKNjw3TmJwWf3hSPCr8o//5XfUjwn0inkopuNN+iY43MEfVOCg3ftIyCBFgceFpQ6n6WZU9fIFvzSrapE+zhG1rSsS0b6A5Z2EVEtr0ZmyaX9/cPCoBdkuodiuw2wb4rdbUZsk4KwYJN7NyYc59oFAj0BDCAr3srdRzd8g10UlDRzJ///VCthPAwI4VI4RB1OT3ICGF/6kNLozeY2AqgqMvRk3gPA4IX6yZvIOwCWUjz0LOkBTC5E1eXIx4LlsM2QBj0McX2toVnmrXC6LZvGsp/9quH6kGlul88rlaPiwdHZ2fFY7VcKR42jo/gRfnw0+nhfyP+8DkBzy4wpn3NRp6r6Ug57yFv0TVndTk9HgD/hh7vMTGUc1q5Gt2BTtblcCiAuDYdA997QgtD+VwJLVY+7pf2S+VytcxnPgv6HLqe6bwAYwKaIeVMiLkb6LjtYkKlQH1OCju7V83AkIYaXexNepG9NF23FJhayQU5eQVJXic10EHDZKZxUvigudir7eym1HLv753dkD97AuLkRHxGRiIeC6HhpeaHBhSZxBhjy0NUuftYOYhNIxwN+DnwqetT1STgMTB5VAxmj5O6vDwegJ+Ou8A+0zb/Ql7zwnfGpo1AO4hGHi89bY6UG9BIVJc3wgX4mguNaDpFZASE9jGFD7Cm5GAImHQu40cXKSMKjkYPFl8yQQ4QzOw4gN5GhqlRtLrP9W+DqUNi2rAzwYuEKaTHGfBaJUpbbQb5J3zR22sAEY7vB9CBeKdvqQWdl7mStAsRk1Nuv/VAkcNyALAVCrE/9jdJ4Aza9pS3CdV5tECQT0TuZnV/lx4iLFqAtS07yoSLK/kAFnrMBLnowfSotysUfWf3xcjExL3IC8sJtiSdu2BqYuFwRRiK85hnvPLTVvndcCrcSEoBmUR6GksXIx6n4DiTwSWC2wQNkDJweFkTk9EJUIcLgfW+1UICdbiQyABYcpTrruIcK14gXLIzdzBBQoWDWJfr2pT4EK7XrBISkF2Kq3aixJ5XoA8Xyy7JZxd7C2muWfArynPN6s9LdG2iwk4bkMJCYsfy08yOccVswxzOamLbNS0UiBt8xKkhcmLNCk6EYMg8EzWRp5RqpdJkvDCJMdTg8KMiFzkGHHnRZG75lL0Uf9XW1eSqOfytPen0R+PTbrelTn6vVorXnb46uB5NTHHYnNzST6+aNDmnA1i63X3t7GvTYEfw106H09lrpzbBedTUz7KK7uTRwRSEDGflM7Unhzoqt5GD4MiOjDMQjCcvHUqYr9vbfnHKjhyMzxP7i+ci3Zvcm85BuWh7d3rt593npL0Hh4bnlEHoUEplBi6vNCjFP/TP5E6zfNTUPCqxR9OxTAfxrx4lpk5H8D/kSnyELggGuuZ9dM+fCbpBhOlVA86qMM4Hp1PdtXyP/ZOK9weVj/v74vPoGD4rlePjKv+sfAo/D4PnIym504DI1PZCwuM9eR6yZxYiXch9gIIu1nkVJQp4p08BRCgasCcPdRwmYDE3OIqtvojmcENNTDnjcxWI5nOi2apGtRmUQOqgPXAoXIWL8ZieBtSPQOLmjalfa8RhzFYqnw4Pa5VK9RBkr66HAb488SZ2Eq0HHXFR/6o5Bsh1roweHb0ur45HFA1mrATGVJppcMTGpeEYHNDDmVbwLaDHgENwcjgCHhLkEqwjz8Mk9pqeMg38Te2y32kO1FZtGn6BFwfl2rTVP210W9PW7+NWX22p09Nup92Hz9F4cHHabtUArFqpRWii6W898Xw8HQxb/XZ32u00avB03VHbrfEofGxfdsKvzcFFi3//efcJNoBAn3gTCzQGGGMmo7BqsDIe8RxKDSChsNSg9KCuaY4XBGkGMrh2qt0ulKjSUNHske+6BOQFJQNCfbehOeDzFBEo17+Lpo5hDXrNKhJTeuqxEirtOLy8IKY//T5CEZhDl9VUFf4/lGNSgwIUahhLAbIOGV/MNVGG4Pza2RV5094k9OMli9XoEiDR8us3uHnzdTlevd4zDSumJCh3Ma5wVlzCeXTuILCY5TcRFS2HeYgWIZg0F0j/4kG1xwHXsjoeTUmxCAqLqeeQZQnC6hfIwz7R0UqWEevVD2yxU7XVuGyDJ36CGxsNF+xrDYNFrTr2gzx75KrCLwqWXmQ5u6zJdQMtWLabVJbwnliuT4Uhq31PLOGUEfmbOP0M87PvOLEkUZX3q6aWwul/8/lkzL2tMsqe9gC5MYuPP0hGCektizWQSvYHQdz5BpLMxLmnAeee6PTAaybhiSj1JvIdS5lnOj99T03fU9M1mZPoX/jeDpP/uOm/Kk2Ns1bIHaN0Mm5TeaoQOTwfwilp0rgq6a4bXoe8DgVrs8mMBejZjGOIrcc5clhnx2ZgfsBsQhUMbtG3hG5BtXNL0DPoMdkStI+NbUGhRUPfdmtjRIm2mYQNCjAmJpSNoHnqtVpw/qtvWUyV5gjbOaEp54GHNxnlgMjEOSCxkZMLFuiIywGPC3aUE5o8RHWrY+cOPeRA0e0ClDEPPNB+lAMaMsN57MqDhqEcqOFtCwk7X2nWS/fu8WAQ1CBeEk8WqWjycgTj81JGFDwgZcPRRpR1iGWkpKfRK6RnRDJoNKbgov/EpkMzomJBNhtfAMM0qFLmgAmutRFxNGsTqmTc30B/KupvA8tj/jaAPOJvA8jj/TaAItpvAyli/QbIDZH+Au6VeKjPhgYShk3i2kBImHK8ko50wpEVCUT3rChsZOeAg0X2rJTwuJ4ViYihuWCZapm3dMsicVZieADNioSHzwjJFsETTh7Y5r9diMNnumlhYmN9Chd8BrrxSpD3z2jYnAjBl1Vx+CWVinUf8kfoL46GovJNXPrtONAO7WW5puDFTfazgaBVVwE7Fn839amsdk/cwOWjDzeXEwPu4ieGb9s84VxqpWAUp/oLxCbiyjaEGhuuznPdlW5JxcbDh1sfU+hkPx+rnYu9ycx0Jre29gWV0AMS76Sigy08x7yp4l7nF6lS8WwkOi/etGvjD1Mq9lRDKl4fiNaNF7RwFO8N1r0A8wzWwCAVW1L+cpTKH+a01r/sSuzzOaVm/e1chrFQ4fjOOu5zFWpIgpSyqLocrBUvLi6a87WTcHHRiTRZ14mUtnQwg4AO0P7gW0xinja95uoxf234B6x6zb6+AbselJldv5v1Uz8XWiPV0La+hmE/s3wepg2uME4JuLmvJhEv+8kFdAWx9szwwF1P/GAg/KVV9KML0aEdwPKLIdZopvwf",
+      "after": "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"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2024-01-21 20:52:43</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Replacing paths with "."]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;D:/Dev/S3_DeformFDM/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;D:/Dev/S3_DeformFDM/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<Keyword>Qt4VSv1.0</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Copying Qt build reference to QtInstall project property]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  ]]></Span><Span Background="LightCoral"><![CDATA[<PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtInstall>tools_qt5</QtInstall>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </PropertyGroup>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtInstall>tools_qt5</QtInstall>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </PropertyGroup>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module macros from compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module macros from resource compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;_WINDOWS;_UNICODE;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;NDEBUG;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Adding Qt module names to QtModules project property]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtModules>core;opengl;gui;widgets</QtModules>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtModules>core;opengl;gui;widgets</QtModules>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--pYnBHomXLLFpsBbTlFwudvwmXm7BG6qIG+H9a4WvnRM=-->
