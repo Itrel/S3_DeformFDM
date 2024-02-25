@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{067D3460-9669-38FF-9D24-7B98D34275A7}</ProjectGuid>
+    <ProjectGuid>{7D3D4C00-1B6D-3FA4-A5AE-E17D1536C90A}</ProjectGuid>
     <RootNamespace>QMeshLib</RootNamespace>
     <Keyword>QtVS_v304</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
@@ -72,7 +72,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>-Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 %(AdditionalOptions)</AdditionalOptions>
       <AssemblerListingLocation>debug\</AssemblerListingLocation>
       <BrowseInformation>false</BrowseInformation>
@@ -86,6 +86,7 @@
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
       <WarningLevel>Level3</WarningLevel>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
@@ -104,7 +105,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>-Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 %(AdditionalOptions)</AdditionalOptions>
       <AssemblerListingLocation>release\</AssemblerListingLocation>
       <BrowseInformation>false</BrowseInformation>
@@ -120,6 +121,7 @@
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
       <WarningLevel>Level3</WarningLevel>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
@@ -197,12 +199,12 @@
   <ItemGroup>
     <CustomBuild Include="GeneratedFiles\moc_predefs.h.cbt">
       <FileType>Document</FileType>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E $(QTDIR)\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Generate moc_predefs.h</Message>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">GeneratedFiles\$(ConfigurationName)\moc_predefs.h;%(Outputs)</Outputs>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E $(QTDIR)\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Generate moc_predefs.h</Message>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">GeneratedFiles\$(ConfigurationName)\moc_predefs.h;%(Outputs)</Outputs>
     </CustomBuild>

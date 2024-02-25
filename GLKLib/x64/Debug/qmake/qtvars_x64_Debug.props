@@ -1,11 +1,11 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
 <Qt_DEFINES_>_WINDOWS;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_OPENGL_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;QT_CORE_LIB</Qt_DEFINES_>
-<Qt_INCLUDEPATH_>C:\Users\ITRELM~1\AppData\Local\Temp\4qev1gmr.syv;D:\Dev\vcpkg\installed\x64-windows\include\qt5;D:\Dev\vcpkg\installed\x64-windows\include\qt5\QtOpenGL;D:\Dev\vcpkg\installed\x64-windows\include\qt5\QtWidgets;D:\Dev\vcpkg\installed\x64-windows\include\qt5\QtGui;D:\Dev\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\ITRELM~1\AppData\Local\Temp\4qev1gmr.syv;D:\Dev\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc</Qt_INCLUDEPATH_>
+<Qt_INCLUDEPATH_>C:\Users\ITRELM~1\AppData\Local\Temp\rikj2avl.nkg;E:\vcpkg\installed\x64-windows\include\qt5;E:\vcpkg\installed\x64-windows\include\qt5\QtOpenGL;E:\vcpkg\installed\x64-windows\include\qt5\QtWidgets;E:\vcpkg\installed\x64-windows\include\qt5\QtGui;E:\vcpkg\installed\x64-windows\include\qt5\QtCore;C:\Users\ITRELM~1\AppData\Local\Temp\rikj2avl.nkg;E:\vcpkg\installed\x64-windows\tools\qt5\mkspecs\win32-msvc</Qt_INCLUDEPATH_>
 <Qt_STDCPP_></Qt_STDCPP_>
 <Qt_RUNTIME_>MultiThreadedDebugDLL</Qt_RUNTIME_>
 <Qt_CL_OPTIONS_>-Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus</Qt_CL_OPTIONS_>
-<Qt_LIBS_>D:\Dev\vcpkg\installed\x64-windows\debug\lib\Qt5OpenGLd.lib;D:\Dev\vcpkg\installed\x64-windows\debug\lib\Qt5Widgetsd.lib;D:\Dev\vcpkg\installed\x64-windows\debug\lib\Qt5Guid.lib;D:\Dev\vcpkg\installed\x64-windows\debug\lib\Qt5Cored.lib;D:\Dev\vcpkg\installed\x64-windows\debug\lib\manual-link\qtmaind.lib</Qt_LIBS_>
+<Qt_LIBS_>E:\vcpkg\installed\x64-windows\debug\lib\Qt5OpenGLd.lib;E:\vcpkg\installed\x64-windows\debug\lib\Qt5Widgetsd.lib;E:\vcpkg\installed\x64-windows\debug\lib\Qt5Guid.lib;E:\vcpkg\installed\x64-windows\debug\lib\Qt5Cored.lib;E:\vcpkg\installed\x64-windows\debug\lib\manual-link\qtmaind.lib</Qt_LIBS_>
 <Qt_LINK_OPTIONS_>/DEBUG "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'"</Qt_LINK_OPTIONS_>
 <QMake_QT_SYSROOT_></QMake_QT_SYSROOT_>
 <QMake_QT_INSTALL_PREFIX_>D:/Dev/vcpkg/installed/x64-windows</QMake_QT_INSTALL_PREFIX_>

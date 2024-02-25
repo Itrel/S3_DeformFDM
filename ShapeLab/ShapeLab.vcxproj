@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{12B683D8-55F0-35B4-8524-55BA71A0455E}</ProjectGuid>
+    <ProjectGuid>{5A5AC674-0E50-3AD8-8B0E-708E74D0BC2D}</ProjectGuid>
     <RootNamespace>ShapeLab</RootNamespace>
     <Keyword>QtVS_v304</Keyword>
     <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
@@ -73,13 +73,9 @@
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">ShapeLab</TargetName>
     <IgnoreImportLibrary Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</IgnoreImportLibrary>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LinkIncremental>false</LinkIncremental>
-    <LibraryPath>$(oneMKLOmpLibDir);$(LibraryPath)$(VcpkgRoot)</LibraryPath>
-  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\eigen3;..\ThirdPartyDependence;..\ThirdPartyDependence\glut;..\QMeshLib;..\GLKLib;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;release;GeneratedFiles;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\eigen3;..\ThirdPartyDependence;..\ThirdPartyDependence\glut;..\QMeshLib;..\GLKLib;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;release;GeneratedFiles;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>-Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 /bigobj %(AdditionalOptions)</AdditionalOptions>
       <AssemblerListingLocation>release\</AssemblerListingLocation>
       <BrowseInformation>false</BrowseInformation>
@@ -95,13 +91,14 @@
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
       <WarningLevel>Level3</WarningLevel>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <OpenMPSupport>true</OpenMPSupport>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut\glut32.lib;D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut\OpenGL32.lib;D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut\GlU32.lib;D:\Dev\S3_DeformFDM\QMeshLib\release\QMeshLib.lib;D:\Dev\S3_DeformFDM\GLKLib\release\GLKLib.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\lib\bz2.lib;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\lib\libpng16.lib;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\lib\zlib.lib;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\lib\zstd.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut;D:\Dev\S3_DeformFDM\QMeshLib\release;D:\Dev\S3_DeformFDM\GLKLib\release;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\lib;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\lib\manual-link;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut\glut32.lib;E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut\OpenGL32.lib;E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut\GlU32.lib;E:\ItrelMonroe\S3_DeformFDM\QMeshLib\release\QMeshLib.lib;E:\ItrelMonroe\S3_DeformFDM\GLKLib\release\GLKLib.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;E:\VCPKG\INSTALLED\X64-WINDOWS\lib\bz2.lib;E:\VCPKG\INSTALLED\X64-WINDOWS\lib\libpng16.lib;E:\VCPKG\INSTALLED\X64-WINDOWS\lib\zlib.lib;E:\VCPKG\INSTALLED\X64-WINDOWS\lib\zstd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut;E:\ItrelMonroe\S3_DeformFDM\QMeshLib\release;E:\ItrelMonroe\S3_DeformFDM\GLKLib\release;E:\VCPKG\INSTALLED\X64-WINDOWS\lib;E:\VCPKG\INSTALLED\X64-WINDOWS\lib\manual-link;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>"/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" %(AdditionalOptions)</AdditionalOptions>
       <DataExecutionPrevention>true</DataExecutionPrevention>
       <GenerateDebugInformation>false</GenerateDebugInformation>
@@ -144,7 +141,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\eigen3;..\ThirdPartyDependence;..\ThirdPartyDependence\glut;..\QMeshLib;..\GLKLib;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;debug;GeneratedFiles;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\eigen3;..\ThirdPartyDependence;..\ThirdPartyDependence\glut;..\QMeshLib;..\GLKLib;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;debug;GeneratedFiles;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>-Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 /bigobj %(AdditionalOptions)</AdditionalOptions>
       <AssemblerListingLocation>debug\</AssemblerListingLocation>
       <BrowseInformation>false</BrowseInformation>
@@ -158,17 +155,17 @@
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <UseFullPaths>false</UseFullPaths>
       <WarningLevel>Level3</WarningLevel>
       <MultiProcessorCompilation>true</MultiProcessorCompilation>
       <OpenMPSupport>true</OpenMPSupport>
-      <DiagnosticsFormat>Classic</DiagnosticsFormat>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut\glut32.lib;D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut\OpenGL32.lib;D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut\GlU32.lib;D:\Dev\S3_DeformFDM\QMeshLib\debug\QMeshLib.lib;D:\Dev\S3_DeformFDM\GLKLib\debug\GLKLib.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>D:\Dev\S3_DeformFDM\ThirdPartyDependence\glut;D:\Dev\S3_DeformFDM\QMeshLib\debug;D:\Dev\S3_DeformFDM\GLKLib\debug;D:\DEV\VCPKG\INSTALLED\X64-WINDOWS\debug\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
-      <AdditionalOptions>"/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut\glut32.lib;E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut\OpenGL32.lib;E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut\GlU32.lib;E:\ItrelMonroe\S3_DeformFDM\QMeshLib\debug\QMeshLib.lib;E:\ItrelMonroe\S3_DeformFDM\GLKLib\debug\GLKLib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:\ItrelMonroe\S3_DeformFDM\ThirdPartyDependence\glut;E:\ItrelMonroe\S3_DeformFDM\QMeshLib\debug;E:\ItrelMonroe\S3_DeformFDM\GLKLib\debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/DEBUG "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" %(AdditionalOptions)</AdditionalOptions>
       <DataExecutionPrevention>true</DataExecutionPrevention>
-      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreImportLibrary>true</IgnoreImportLibrary>
       <OutputFile>$(OutDir)\ShapeLab.exe</OutputFile>
       <RandomizedBaseAddress>true</RandomizedBaseAddress>
@@ -238,15 +235,15 @@
     <CustomBuild Include="debug\moc_predefs.h.cbt">
       <FileType>Document</FileType>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E $(QTDIR)\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Generate moc_predefs.h</Message>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_predefs.h;%(Outputs)</Outputs>
     </CustomBuild>
     <CustomBuild Include="release\moc_predefs.h.cbt">
       <FileType>Document</FileType>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy.cpp;%(AdditionalInputs)</AdditionalInputs>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E $(QTDIR)\mkspecs\features\data\dummy.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Generate moc_predefs.h</Message>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_predefs.h;%(Outputs)</Outputs>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

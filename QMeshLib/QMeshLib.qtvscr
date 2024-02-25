@@ -1,10 +1,10 @@
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
   <FlowDocument.Tag><![CDATA[{
-  "timestamp": "2024-01-21 20:52:43",
+  "timestamp": "2024-02-24 20:31:54",
   "files": {
-    "D:\\Dev\\S3_DeformFDM\\QMeshLib\\QMeshLib.vcxproj": {
-      "before": "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",
-      "after": "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"
+    "E:\\ItrelMonroe\\S3_DeformFDM\\QMeshLib\\QMeshLib.vcxproj": {
+      "before": "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",
+      "after": "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"
     }
   }
 }]]></FlowDocument.Tag>
@@ -17,7 +17,7 @@
       <Span TextDecorations="Underline">Project Format Conversion</Span>
     </Paragraph>
     <Paragraph Margin="12,8" FontSize="18">
-      <Span>Report generated on 2024-01-21 20:52:43</Span>
+      <Span>Report generated on 2024-02-24 20:31:54</Span>
     </Paragraph>
   </Section>
   <Section>
@@ -25,17 +25,17 @@
       <Span>Files</Span>
     </Paragraph>
     <Paragraph Margin="24,12,0,0">
-      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
       <LineBreak />
-      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?before">[Before]</Hyperlink>
-      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?after">[After]</Hyperlink>
-      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;after">
+      <Hyperlink NavigateUri="file://E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;after">
                         [Diff before/after]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;current">
+      <Hyperlink NavigateUri="file://E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;before&amp;current">
                         [Diff before/current]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;after&amp;current">
+      <Hyperlink NavigateUri="file://E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj?diff&amp;after&amp;current">
                         [Diff after/current]
                     </Hyperlink>
       <LineBreak />
@@ -45,6 +45,108 @@
     <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
       <Span>Changes</Span>
     </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Replacing paths with "$(QTDIR)"]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;E:/ItrelMonroe/S3_DeformFDM/QMeshLib/GeneratedFiles/$(ConfigurationName]]></Span><Span Background="LightCoral"><![CDATA[);..\..\..\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;E:/ItrelMonroe/S3_DeformFDM/QMeshLib/GeneratedFiles/$(ConfigurationName]]></Span><Span Background="LightGreen"><![CDATA[);$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;E:/ItrelMonroe/S3_DeformFDM/QMeshLib/GeneratedFiles/$(ConfigurationName]]></Span><Span Background="LightCoral"><![CDATA[);..\..\..\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;E:/ItrelMonroe/S3_DeformFDM/QMeshLib/GeneratedFiles/$(ConfigurationName]]></Span><Span Background="LightGreen"><![CDATA[);$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">..\..\..\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\..\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">..\..\..\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightCoral"><![CDATA[ ..\..\..\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E]]></Span><Span Background="LightGreen"><![CDATA[ $(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;GeneratedFiles\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
     <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
       <Span><![CDATA[🡺 Replacing paths with "."]]></Span>
     </Paragraph>
@@ -57,7 +159,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -67,12 +169,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;D:/Dev/S3_DeformFDM/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;E:/ItrelMonroe/S3_DeformFDM/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -82,12 +184,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;D:/Dev/S3_DeformFDM/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightCoral"><![CDATA[;E:/ItrelMonroe/S3_DeformFDM/QMeshLib/GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);..\..\..\DEV\VCPKG\INSTALLED\X64-WINDOWS\tools\qt5\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore]]></Span><Span Background="LightGreen"><![CDATA[;./GeneratedFiles/$]]></Span><Span><![CDATA[(ConfigurationName);$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -105,7 +207,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -149,7 +251,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -182,7 +284,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -213,7 +315,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -244,7 +346,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -285,7 +387,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -336,7 +438,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -380,7 +482,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -411,7 +513,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -496,7 +598,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -533,6 +635,54 @@
       </TableRowGroup>
     </Table>
     <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module include paths from compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);]]></Span><Span Background="LightCoral"><![CDATA[$(QTDIR)\mkspecs\win32-msvc;]]></Span><Span><![CDATA[%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);]]></Span><Span><![CDATA[%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);]]></Span><Span Background="LightCoral"><![CDATA[$(QTDIR)\mkspecs\win32-msvc;]]></Span><Span><![CDATA[%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;..\ThirdPartyDependence\glut;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtOpenGL;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtWidgets;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtGui;..\..\..\VCPKG\INSTALLED\X64-WINDOWS\include\qt5\QtCore;./GeneratedFiles/$(ConfigurationName);]]></Span><Span><![CDATA[%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
       <Span><![CDATA[🡺 Removing Qt module macros from resource compiler properties]]></Span>
     </Paragraph>
     <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
@@ -544,7 +694,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -592,7 +742,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[D:\Dev\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
+              <Span><![CDATA[E:\ItrelMonroe\S3_DeformFDM\QMeshLib\QMeshLib.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -629,4 +779,4 @@
     <Paragraph />
   </Section>
 </FlowDocument>
-<!--pYnBHomXLLFpsBbTlFwudvwmXm7BG6qIG+H9a4WvnRM=-->
+<!--Rpllx8CHo9WdBpXbReX8WTRU5YeiNAWr4o2Gq+jmH0o=-->
